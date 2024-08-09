@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning NGS Data analysis
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me ...Ajishanayeem@gmail.com
-- 😄 Pronouns: ...carefree
-- ⚡ Fun fact: ...marvel
+- 😄 Pronouns: .................hlp
+- ⚡ Fun fact: .............!!!:(
 
 <!---
 AJISHA-NAYEEM/AJISHA-NAYEEM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
