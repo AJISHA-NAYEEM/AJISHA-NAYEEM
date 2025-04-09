@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AJISHA-NAYEEM
-- 👀 I’m interested in Biology, Genetics, data science, AI, Precision medicine and NGS.
-- 🌱 I’m currently learning NGS Data analysis
+- 👀 I’m interested in Biology, Genetics, data science, AI, Precision medicine
+- 🌱 
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me ...Ajishanayeem@gmail.com
-- 😄 Pronouns: .................hlp
+- 😄 
 - ⚡ Fun fact: .............!!!:(
 
 <!---
